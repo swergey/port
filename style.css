@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: rgb(21, 131, 103);
+    color: rgb(38, 206, 164);
+    font-size: 20px;
+    border: 20px solid rgb(18, 100, 80);
+    border-radius: 50px;
+    text-align: center;
+}
+.link-header{
+    background-color: rgb(21, 131, 103);
+    color: rgb(38, 206, 164);
+    font-size: 20px;
+    border: 2px solid rgb(18, 100, 80);
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
